@@ -1,0 +1,14 @@
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.deps.json
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.json
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.dev.json
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.dll
+D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csprojAssemblyReference.cache
+D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csproj.CoreCompileInputs.cache
+D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfoInputs.cache
+D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfo.cs
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\TodoLists.dll
+D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\TodoLists.pdb
+D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csproj.CopyComplete
