@@ -12,3 +12,7 @@ D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInf
 D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\TodoLists.dll
 D:\Workspace\TodoLists\ApiTesting\bin\Debug\netcoreapp2.1\TodoLists.pdb
 D:\Workspace\TodoLists\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csproj.CopyComplete
+D:\Workspace\ToDo\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csprojAssemblyReference.cache
+D:\Workspace\ToDo\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csproj.CoreCompileInputs.cache
+D:\Workspace\ToDo\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfoInputs.cache
+D:\Workspace\ToDo\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfo.cs

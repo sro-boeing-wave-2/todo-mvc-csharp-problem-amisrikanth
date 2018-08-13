@@ -40,3 +40,4 @@ D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.AssemblyInfo.cs
 D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.RazorTargetAssemblyInfo.cache
 D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.dll
 D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.pdb
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
