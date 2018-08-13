@@ -14103,11 +14103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\WebApiTesting\\WebApiTesting.csproj",
+      "projectUniqueName": "D:\\Workspace\\ToDo\\WebApiTesting\\WebApiTesting.csproj",
       "projectName": "WebApiTesting",
-      "projectPath": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\WebApiTesting\\WebApiTesting.csproj",
+      "projectPath": "D:\\Workspace\\ToDo\\WebApiTesting\\WebApiTesting.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\WebApiTesting\\obj\\",
+      "outputPath": "D:\\Workspace\\ToDo\\WebApiTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14126,8 +14126,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\TodoLists\\TodoLists.csproj": {
-              "projectPath": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\TodoLists\\TodoLists.csproj"
+            "D:\\Workspace\\ToDo\\TodoLists\\TodoLists.csproj": {
+              "projectPath": "D:\\Workspace\\ToDo\\TodoLists\\TodoLists.csproj"
             }
           }
         }

@@ -26,3 +26,17 @@ D:\Workspace\todo-mvc-csharp-problem-amisrikanth\TodoLists\obj\Debug\netcoreapp2
 D:\Workspace\todo-mvc-csharp-problem-amisrikanth\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.RazorTargetAssemblyInfo.cache
 D:\Workspace\todo-mvc-csharp-problem-amisrikanth\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.dll
 D:\Workspace\todo-mvc-csharp-problem-amisrikanth\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.pdb
+D:\Workspace\ToDo\TodoLists\bin\Debug\netcoreapp2.1\TodoLists.deps.json
+D:\Workspace\ToDo\TodoLists\bin\Debug\netcoreapp2.1\TodoLists.runtimeconfig.json
+D:\Workspace\ToDo\TodoLists\bin\Debug\netcoreapp2.1\TodoLists.runtimeconfig.dev.json
+D:\Workspace\ToDo\TodoLists\bin\Debug\netcoreapp2.1\TodoLists.dll
+D:\Workspace\ToDo\TodoLists\bin\Debug\netcoreapp2.1\TodoLists.pdb
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.csprojAssemblyReference.cache
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.csproj.CoreCompileInputs.cache
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.RazorAssemblyInfo.cache
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.RazorAssemblyInfo.cs
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.AssemblyInfoInputs.cache
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.AssemblyInfo.cs
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.RazorTargetAssemblyInfo.cache
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.dll
+D:\Workspace\ToDo\TodoLists\obj\Debug\netcoreapp2.1\TodoLists.pdb

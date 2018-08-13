@@ -1,11 +1,6 @@
-﻿using System;
-using Xunit;
-using Moq;
-using TodoLists.Controllers;
+﻿using Xunit;
 using TodoLists.Models;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using FluentAssertions;
 using System.Net.Http;

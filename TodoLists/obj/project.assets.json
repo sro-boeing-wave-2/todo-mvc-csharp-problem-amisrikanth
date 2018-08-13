@@ -12338,11 +12338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\TodoLists\\TodoLists.csproj",
+      "projectUniqueName": "D:\\Workspace\\ToDo\\TodoLists\\TodoLists.csproj",
       "projectName": "TodoLists",
-      "projectPath": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\TodoLists\\TodoLists.csproj",
+      "projectPath": "D:\\Workspace\\ToDo\\TodoLists\\TodoLists.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\todo-mvc-csharp-problem-amisrikanth\\TodoLists\\obj\\",
+      "outputPath": "D:\\Workspace\\ToDo\\TodoLists\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
